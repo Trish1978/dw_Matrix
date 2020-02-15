@@ -1,7 +1,6 @@
-# dw_Matrix
-Projekt Transformacja, czyli Matrix (Data Workshop)
+# Projekt Transformacja, czyli Matrix (Data Workshop)
 
-część 1 POZNAJ REGUŁY GRY - 5 dni i 5 zadań
+## część 1 POZNAJ REGUŁY GRY - 5 dni i 5 zadań
 
 - 1: założenie konta na GitHub i utworzenie repo
 - 2: 
