@@ -1,8 +1,8 @@
-# Projekt Transformacja, czyli Matrix (Data Workshop)
+# Matrix Transformation (Data Workshop)
 
-## część 1 POZNAJ REGUŁY GRY - 5 dni i 5 zadań
+## part 1 Let's start the game - 5 days $ 5 tasks
 
-- 1: założenie konta na GitHub i utworzenie repo
+- 1: GitHub account & first repo
 - 2: 
 - 3:
 - 4:
